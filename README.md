@@ -23,10 +23,9 @@
 <p>Alex Milnes</p>
  <p>Student number: s3987656</p> 
  <p>Email: s3987656@student.rmit.edu.au</p> 
+ <p><a href="https://github.com/AlexMilnesRMIT/Gittest.git">Github Repository</a></p>
+<p><a href="https://alexmilnesrmit.github.io/">Github Page URL</a></p>
 
- <a href="https://github.com/AlexMilnesRMIT/Gittest.git">Github Repository</a>
-
- 
   
 
 <p>I have relocated to Brasilia, Brazil, and I love it. I am a loving husband and Father of twin boys with another set of twins on the way. 
